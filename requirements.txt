@@ -1,3 +1,5 @@
 flask
-pickle
+pandas
 numpy
+scikit-learn
+requests
